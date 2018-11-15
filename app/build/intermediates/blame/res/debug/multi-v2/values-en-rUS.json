@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\TARUC\\Desktop\\MaterialMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TARUC\\Desktop\\MaterialMe\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "-1,27,13,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,4,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,1077,676,-1,-1,-1,-1,-1",
+                        "endLines": "-1,39,25,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,19,19,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,1677,1069,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,16,29,42,43,44,45,51",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,581,1174,1560,1610,1660,1730,2115",
+                        "endLines": "15,28,41,42,43,44,50,51",
+                        "endColumns": "12,19,19,49,49,69,26,51",
+                        "endOffsets": "576,1169,1555,1605,1655,1725,2110,2162"
+                    }
+                }
+            ]
+        }
+    ]
+}
